@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on this [Node+React AppStore](https://github.com/pecamardelli/appstore-demo)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pecamardelli](https://github.com/pecamardelli)
+- 👨‍💻 All of my projects are available at [https://github.com/pecamardelli?tab=repositories](https://github.com/pecamardelli)
 
 - 💬 Ask me about **node.js, react.js, angular, php, LAMP, Linux...**
 
